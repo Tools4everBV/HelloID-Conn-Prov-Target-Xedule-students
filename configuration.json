@@ -1,0 +1,83 @@
+[
+    {
+        "key": "oreId",
+        "type": "input",
+        "defaultValue": "",
+        "templateOptions": {
+            "label": "oreId",
+            "description": "The OreId to connect to the API",
+            "required": true
+        }
+    },
+    {
+        "key": "Customer",
+        "type": "input",
+        "defaultValue": "",
+        "templateOptions": {
+            "label": "Customer",
+            "description": "The Customer Name to connect to the API",
+            "required": true
+        }
+    },
+    {
+        "key": "OcpApimSubscriptionKey",
+        "type": "input",
+        "defaultValue": "",
+        "templateOptions": {
+            "type": "password",
+            "label": "Ocp-Apim-Subscription-Key",
+            "description": "The Ocp-Apim-Subscription-Key to connect to the API",
+            "required": true
+        }
+    },
+    {
+        "key": "ClientId",
+        "type": "input",
+        "defaultValue": "",
+        "templateOptions": {
+            "label": "ClientId",
+            "description": "The ClientId to the API.",
+            "required": true
+        }
+    },
+    {
+        "key": "ClientSecret",
+        "type": "input",
+        "defaultValue": "",
+        "templateOptions": {
+            "label": "ClientSecret",
+            "description": "The ClientSecret to the API.",
+            "required": true
+        }
+    },
+    {
+        "key": "BaseUrl",
+        "type": "input",
+        "defaultValue": "",
+        "templateOptions": {
+            "label": "BaseUrl",
+            "description": "The URL to the API.",
+            "required": true
+        }
+    },
+    {
+        "key": "TokenUrl",
+        "type": "input",
+        "defaultValue": "",
+        "templateOptions": {
+            "label": "TokenUrl",
+            "description": "The TokenUrl to the API.",
+            "required": true
+        }
+    },
+        {
+        "key": "TenantId",
+        "type": "input",
+        "defaultValue": "",
+        "templateOptions": {
+            "label": "TenantId",
+            "description": "The TenantId to connect to the API .",
+            "required": true
+        }
+    }
+]
