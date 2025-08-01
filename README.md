@@ -105,9 +105,7 @@ The following endpoints are used by the connector
 
 ### API documentation
 
-<!--
-If publicly available, provide the link to the API documentation
--->
+https://developer.connect.xedule.nl/api-details#api=students-groups-prod&operation=Student_GetStudenten
 
 ## Getting help
 
