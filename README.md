@@ -90,6 +90,7 @@ The account reference is populated with the property `id` property from _Xedule-
 Current state of the connector:
 - The property Studeert is used to enable and disable accounts. It is not clear how this is used. More information has been requested from the supplier/customer.
 - The connector is DryCoded and will be further developed once a working test environment is available.
+- When an account already exists with the same "Code", the account will be created with "Code": "1000467 (APIACCOUNT)", "Code": "1000467 (APIACCOUNT 1)", etc. The connector prevents this from happening through correct correlation.
 
 ## Development resources
 
@@ -118,3 +119,4 @@ https://developer.connect.xedule.nl/api-details#api=students-groups-prod&operati
 ## HelloID docs
 
 The official HelloID documentation can be found at: https://docs.helloid.com/
+
