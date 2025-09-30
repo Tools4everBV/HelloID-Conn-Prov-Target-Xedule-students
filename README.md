@@ -114,9 +114,10 @@ https://developer.connect.xedule.nl/api-details#api=students-groups-prod&operati
 > _For more information on how to configure a HelloID PowerShell connector, please refer to our [documentation](https://docs.helloid.com/en/provisioning/target-systems/powershell-v2-target-systems.html) pages_.
 
 > [!TIP]
->  _If you need help, feel free to ask questions on our [forum](https://forum.helloid.com)_.
+>  _If you need help, feel free to ask questions on our [forum](https://forum.helloid.com/forum/helloid-connectors/provisioning/5378-helloid-conn-prov-target-xedule-students)_.
 
 ## HelloID docs
 
 The official HelloID documentation can be found at: https://docs.helloid.com/
+
 
